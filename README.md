@@ -89,7 +89,4 @@ python run_template_adv0.py # or run_template_adv1.py
 run experiments about attacking **both search regions and the template**
 ```
 python run_template_search_adv0.py # or run_template_search_adv1.py
-```
-# GTAT
-# GTAT
-# GTAT
+
